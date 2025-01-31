@@ -12,7 +12,7 @@
 # Introduction
 This repository contains the code for bioinformatics analyses described in the article "Multi-cohort cerebrospinal fluid proteomics identifies robust molecular signatures across the Alzheimer disease continuum".
 
-This project investigated CSF proteomics data from the SomaScan 7K platform to identify proteins associated with Alzheimer disease. Idnetified proteins were leveraged to create AD-spcific prediction model, pseudo-trajectory analyseis, biological pathway and cell type enrichment analyses to understand underlying AD biology.
+This project investigated CSF proteomics data from the SomaScan 7K platform to identify proteins associated with Alzheimer disease. Idnetified proteins were leveraged to create AD-spcific prediction model, pseudo-trajectory analysis, biological pathway and cell type enrichment analyses to understand underlying AD biology.
 
 # Content
 The code covers the following main analysis steps:
