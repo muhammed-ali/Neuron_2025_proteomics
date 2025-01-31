@@ -72,8 +72,3 @@ The scripts should be run in the following order:
     network_and_pathway_analysis.R
 
     cell_type_enrichment.R
-
-# Directories
-- Input data should be placed under "Input_Data" folder
-- Scripts should be placed under "Scripts" folder, otherwise the scripts can be run as-is.
-- Figures will be generated under "Figures" folder
